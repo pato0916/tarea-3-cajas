@@ -15,5 +15,6 @@ El programa se trata dos cajas de supermercado que se utilizan simultaneamente c
 
 - Primer paso
 Primero en la ejecución del programa hay que entregarle cuatro parámetros que son los tiempos mínimos y máximos de los productores y consumidores, que en este caso sería productores=clientes y consumidores=cajeros.
+
 -Segundo paso
 Al correr el programa por consola se vera como se utilizar las dos cajas de supermercado secuencialmente 
