@@ -9,7 +9,7 @@
 Lenguaje en C#
 Autores; Nahuelhual Rayen - Pizarro Patricio
 
-El programa se trata dos cajas de supermercado que se utilizan simultaneamente con thread teniendo en cuenta que la cantidad de cliente y de capacidad de la caja sera un numero entero dado con una función randomica.
+- El programa se trata dos cajas de supermercado que se utilizan simultaneamente con thread teniendo en cuenta que la cantidad de cliente y de capacidad de la caja sera un numero entero dado con una función randomica.
 
 ### Uso del programa
 
